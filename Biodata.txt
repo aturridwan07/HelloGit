@@ -2,3 +2,4 @@ Nama		: Roby
 Tempat Lahir	: Sumedang
 Tanggal Lahir	: 26 Juli 1995
 Jenis Kelamin	: Laki-laki
+Alamat : Bintaro
